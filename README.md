@@ -1,6 +1,5 @@
-# Hi there 👋 I'm [Your Name]
-
-**Software Developer** passionate about building robust backend systems and clean, efficient code.
+# Hi there 👋 I'm Tawanda aka T.C.
+**Software Developer** passionate about building robust backend systems with responsive and intuitive frontend systems using clean, efficient code.
 
 ## 🛠️ Technical Skills
 
