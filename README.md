@@ -20,10 +20,10 @@
 
 ## 🔭 Recent Project
 
-### [Record Shop Backend](https://github.com/tchabva/recordshopbackend) - Spring Boot Application
-- Built a RESTful API Backednd for [Record Shop Android Application](https://github.com/tchabva/Recordshop-Frontend-Compose)
+### [VirtuArt Exhibit Curator](https://github.com/tchabva/virtuart-frontend)) - Android Application
+- Built a [RESTful API Backend](https://github.com/tchabva/virtuart-backend) to consume the Museum APIs and transform the information into a unified data model
 - Implemented - MVC Architecture (Backend), MVVM Architecture (Frontend) and TDD.
-- Technologies: Java (Backend), Kotlin (Frontend), Spring Boot, PostgreSQL, JUnit, Mockito
+- Technologies: Spring Boot - Java (Backend), Android - Kotlin (Frontend), PostgreSQL, JUnit, Mockito, Retrofit, Android Paging
 
 ## 📊 GitHub Stats
 
