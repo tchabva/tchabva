@@ -15,7 +15,7 @@
 **Tools & Technologies**  
 - Build Tools: Gradle, Maven
 - Version Control: Git, GitHub
-- Frameworks: Spring Boot (Java), Compose (Kotlin)
+- Frameworks: Spring Boot (Java), Android - Compose (Kotlin) | Views & XML (Kotlin & Java) 
 - Testing: JUnit, Mockito
 
 ## 🔭 Recent Project
