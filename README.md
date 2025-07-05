@@ -13,10 +13,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 **Tools & Technologies**  
-- Build Tools: Gradle, Maven
-- Version Control: Git, GitHub
-- Frameworks: Spring Boot (Java), Android - Compose (Kotlin) | Views & XML (Kotlin & Java) 
-- Testing: JUnit, Mockito
+- Build Tools: Gradle | Maven
+- Version Control: GitHub
+- Frameworks: Spring Boot (Java) | Android - Compose (Kotlin) Views & XML (Kotlin & Java) 
+- Testing: JUnit | Mockito
 
 ## 🔭 Recent Project
 
