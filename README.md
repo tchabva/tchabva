@@ -20,7 +20,7 @@
 
 ## 🔭 Recent Project
 
-### [VirtuArt Exhibit Curator](https://github.com/tchabva/virtuart-frontend)) - Android Application
+### [VirtuArt Exhibit Curator](https://github.com/tchabva/virtuart-frontend) - Android Application
 - Built a [RESTful API Backend](https://github.com/tchabva/virtuart-backend) to consume the Museum APIs and transform the information into a unified data model
 - Implemented - MVC Architecture (Backend), MVVM Architecture (Frontend) and TDD.
 - Technologies: Spring Boot - Java (Backend), Android - Kotlin (Frontend), PostgreSQL, JUnit, Mockito, Retrofit, Android Paging
